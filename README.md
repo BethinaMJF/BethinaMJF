@@ -17,9 +17,9 @@
 ### 
 
 <div style="display: flex; ">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BethinaMJF&layout=compact" alt="Top Langs">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BethinaMJF&layout=compact" alt="Top Langs">
   <img height="130em" src="img.gif" alt="Anurag's GitHub stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BethinaMJF&show_icons=true&theme=transparent" alt="Anurag's GitHub stats">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BethinaMJF&show_icons=true&theme=transparent" alt="Anurag's GitHub stats">
 
 </div>
 
