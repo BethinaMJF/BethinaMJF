@@ -18,12 +18,6 @@
 
 ### 
 
-<div style="display: flex;" gap="25">
-  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BethinaMJF&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=f2f7fc&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=0463c8&count_private=true" alt="Most Used Languages">
-  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BethinaMJF&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=f2f7fc&text_color=f2f7fc&border_radius=3&border_color=0463c8&icon_color=0463c8&theme=jolly" alt="GitHub stats">
-
-</div>
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BethinaMJF/BethinaMJF/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BethinaMJF/BethinaMJF/output/github-contribution-grid-snake-dark.svg">
