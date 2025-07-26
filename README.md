@@ -17,7 +17,11 @@
 </div>
 
 ### 
-
+<p align="center">
+  <a href="https://github.com/BethinaMJF/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BethinaMJF&layout=donut&theme=dark&title_color=01B3FF&text_color=fefefe&icon_color=01B3FF&hide_border=true&border_radius=16&ring_color=01B3FF" alt="Top Langs"/>
+  </a>
+</p>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BethinaMJF/BethinaMJF/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BethinaMJF/BethinaMJF/output/github-contribution-grid-snake-dark.svg">
