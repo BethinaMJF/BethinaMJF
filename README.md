@@ -18,8 +18,8 @@
     <h3>👩‍💻 Sobre mim</h3>
     <p>🎓 Formação em Desenvolvimento de Sistemas e estudante de Engenharia de Software.</p>
     <p>🌱 Curiosa por natureza, exploro várias tecnologias para ampliar meu conhecimento.</p>
-    <p>🚀 Foco em aprender rápido, adaptar e construir soluções eficazes para o mercado.</p>
-    <p>💡 Foco em back-end com C#/.NET, bancos de dados e APIs.</p>
+    <p>🚀 Aprendizagem rápida, adaptação e construção de soluções eficazes.</p>
+    <p>💡 Especializando em back-end com C#/.NET, bancos de dados e APIs.</p>
 
   </div>
 </div>
