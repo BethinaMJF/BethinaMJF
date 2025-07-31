@@ -1,29 +1,71 @@
-![Minha Imagem](github-header-image.png)
+<h1 align="center">Oi, sou a Bethina Medeiros! 💙</h1>
 
-<div style="display: flex; gap: 20px;">
-  <img height="25px" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  <img height="25px" src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" alt="Xamarin">
-  <img height="25px" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
-  <img height="25px" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server">
-  <img height="25px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img height="25px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img height="25px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img height="25px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img height="25px" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  <img height="25px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img height="25px" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-  <img height="25px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img height="25px" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="powerBI">
+<p align="center">
+  💻 Desenvolvedora apaixonada por tecnologia, soluções e boas ideias.
+</p>
+
+<p align="center">
+  🧠 Transformando curiosidade em aprendizado e código criativo.
+</p>
+
+<!-- Linha -->
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" alt="linha" />
+</p>
+
+<div align="center">
+  <div style="max-width: 700px; text-align: left;">
+    <h3>👩‍💻 Sobre mim</h3>
+    <p>🎓 Formação em Desenvolvimento de Sistemas e estudante de Engenharia de Software.</p>
+    <p>🌱 Curiosa por natureza, exploro várias tecnologias para ampliar meu conhecimento.</p>
+    <p>🚀 Foco em aprender rápido, adaptar e construir soluções eficazes para o mercado.</p>
+    <p>💡 Foco em back-end com C#/.NET, bancos de dados e APIs.</p>
+
+  </div>
 </div>
 
-### 
+<!-- Linha -->
 <p align="center">
-  <a href="https://github.com/BethinaMJF/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BethinaMJF&layout=donut&theme=dark&title_color=01B3FF&text_color=fefefe&icon_color=01B3FF&hide_border=true&border_radius=16&ring_color=01B3FF" alt="Top Langs"/>
-  </a>
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" alt="linha" />
 </p>
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BethinaMJF/BethinaMJF/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BethinaMJF/BethinaMJF/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BethinaMJF/BethinaMJF/output/github-contribution-grid-snake.svg">
-</picture>
+
+<!-- Linguagens e Estatísticas -->
+<table align="center" width="700" cellpadding="10" cellspacing="0">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>📚 Linguagens e Ferramentas</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=html,css,js,angular,figma,flutter,dart" />
+      </p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,java,mysql,mongodb" />
+      </p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes" />
+      </p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=git,postman,visualstudio" />
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BethinaMJF&hide=html&layout=compact&title_color=ffffff&text_color=fefefe&icon_color=01B3FF&bg_color=0d1117&hide_border=true&border_radius=16" alt="GitHub stats" />
+    </td>
+  </tr>
+</table>
+
+<!-- Linha -->
+<p align="center" style="padding-top: 35px;">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" alt="linha" />
+</p>
+
+<!-- Frase e imagem -->
+<table align="center" width="700" cellpadding="10" cellspacing="0">
+  <tr>
+    <td align="left" valign="middle" style="font-style: italic; font-size: 1.2em;">
+      "Você não precisa ser genial, só precisa não desistir."
+    </td>
+    <td width="150" align="right" valign="middle">
+      <img src="https://i.pinimg.com/originals/b9/26/64/b92664f150e45bb88d874fd2909655eb.gif" alt="Gon" width="200" />
+    </td>
+  </tr>
+</table>
